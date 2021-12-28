@@ -12,7 +12,7 @@
 
 ### Todo
 - [x] Main section
-- [ ] Active state
+- [x] Active state
 - [ ] Mobile responsive
 
 ### Screenshot

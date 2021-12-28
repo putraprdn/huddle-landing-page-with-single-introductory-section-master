@@ -99,6 +99,11 @@ body {
 	padding: 0.8rem;
 	border-radius: 40px;
 	box-shadow: 5px 7px 20px -5px hsl(256.7, 96.8%, 12.4%);
+    transition: all 0.5s;
+}
+.main__button:hover {
+    background-color: var(--Soft-Magenta);
+    color: white;
 }
 
 .footer {
@@ -114,6 +119,10 @@ body {
 .footer svg {
 	width: 1.5rem;
     color: inherit;
+    transition: all 0.5s;
+}
+.footer svg:hover {
+    color: var(--Soft-Magenta);
 }
 
 @media screen and (max-width: 375px) {
