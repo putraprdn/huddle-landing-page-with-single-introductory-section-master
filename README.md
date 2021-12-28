@@ -25,6 +25,5 @@
 
 ## Author
 
-- Website - [Portfolio](https://putraprdn.github.io/portfolio-v1/)
 - Frontend Mentor - [@putraprdn](https://www.frontendmentor.io/profile/putraprdn)
 - LinkedIn - [Muhamad Putra Perdana](https://www.linkedin.com/in/putraprdn)
