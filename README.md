@@ -13,7 +13,7 @@
 ### Todo
 - [x] Main section
 - [x] Active state
-- [ ] Mobile responsive
+- [x] Mobile responsive (375px)
 
 ### Screenshot
 
